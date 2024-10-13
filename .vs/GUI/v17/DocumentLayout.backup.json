@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell-pc\\source\\repos\\GUI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08CC857C-EFA1-4820-AFEE-B641F5A7C108}|GUI.csproj|C:\\Users\\dell-pc\\source\\repos\\GUI1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08CC857C-EFA1-4820-AFEE-B641F5A7C108}|GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CC857C-EFA1-4820-AFEE-B641F5A7C108}|GUI.csproj|c:\\users\\dell-pc\\source\\repos\\gui1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CC857C-EFA1-4820-AFEE-B641F5A7C108}|GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C27BC-63AB-4316-B9B9-60267B52587A}|..\\DAL1\\DAL1.csproj|c:\\users\\dell-pc\\source\\repos\\dal1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C27BC-63AB-4316-B9B9-60267B52587A}|..\\DAL1\\DAL1.csproj|c:\\users\\dell-pc\\source\\repos\\dal1\\model\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278C27BC-63AB-4316-B9B9-60267B52587A}|..\\DAL1\\DAL1.csproj|c:\\users\\dell-pc\\source\\repos\\dal1\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC335B4-AFDB-4387-8864-7C092DE9C1C6}|..\\BUS1\\BUS1.csproj|c:\\users\\dell-pc\\source\\repos\\bus1\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\dell-pc\\source\\repos\\DAL1\\Model\\Major.cs",
+              "RelativeDocumentMoniker": "..\\DAL1\\Model\\Major.cs",
+              "ToolTip": "C:\\Users\\dell-pc\\source\\repos\\DAL1\\Model\\Major.cs",
+              "RelativeToolTip": "..\\DAL1\\Model\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:27:48.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dell-pc\\source\\repos\\DAL1\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "..\\DAL1\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\dell-pc\\source\\repos\\DAL1\\Model\\Student.cs",
+              "RelativeToolTip": "..\\DAL1\\Model\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:21:42.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studentService.cs",
+              "DocumentMoniker": "C:\\Users\\dell-pc\\source\\repos\\BUS1\\studentService.cs",
+              "RelativeDocumentMoniker": "..\\BUS1\\studentService.cs",
+              "ToolTip": "C:\\Users\\dell-pc\\source\\repos\\BUS1\\studentService.cs",
+              "RelativeToolTip": "..\\BUS1\\studentService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:14:44.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dell-pc\\source\\repos\\GUI1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dell-pc\\source\\repos\\GUI1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAkwI0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:11:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dell-pc\\source\\repos\\GUI1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\dell-pc\\source\\repos\\GUI1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:11:57.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dell-pc\\source\\repos\\DAL1\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DAL1\\Class1.cs",
+              "ToolTip": "C:\\Users\\dell-pc\\source\\repos\\DAL1\\Class1.cs",
+              "RelativeToolTip": "..\\DAL1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:05:58.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
